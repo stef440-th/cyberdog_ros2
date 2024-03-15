@@ -7,4 +7,4 @@ The main purpose of this project is to use Julia's codes in vision detections ac
 Notice I have copied the entierly CyberDog Ros 2 !
 Why Julia ?
 It's a nice shortly syntax with good performance that's all we need for artificial intelligence ! 
-[vision_cyberdog_julia_standart][https://github.com/stef440-th/vision_cyberDog_Julia_Standard.git]
+[vision_cyberdog_julia_standart](https://github.com/stef440-th/vision_cyberDog_Julia_Standard.git)
